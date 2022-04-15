@@ -1,0 +1,35 @@
+#Name: Spinochi Andreea
+#Class: 312CA
+
+##Now you see me - Homework 1
+
+###Description:
+
+    This project was about implementing geniric structures which are used to
+create two lists: one that keeps decks and one that keeps cards. The functions
+used for implementation are entered from the command line. 
+    I added a deck or a single card within an existing deck and then parsed
+through the list of cards and the list of decks using the structure that keeps
+the nodes to delete the decks or the cards, shuffeled, merged, splitted or
+sorted them.
+    The rest of the functions are either used for displaying all the deck or
+only a specific one, displaying the length of a deck or the deck number and
+exiting the program. 
+    Also, there are some auxiliary functions as well used to create the lists,
+go to a specific node or verify if the cards are valid or not.
+
+### Comments on the homework:
+
+*Do you think you could have done a better implementation?
+ Maybe I could if I had a lot of free time.
+
+*What did you learn from this homework?
+ I think the homework worked perfectly to help me perfect the implementation of
+ geniric lists.
+
+### Resources / Bibliography:
+
+1. (https://www.geeksforgeeks.org/c-program-for-reversing-a-doubly-linked-list/)
+
+2. (https://stackoverflow.com/questions/62237012/how-to-sort-doubly-linked-list
+    -with-multiple-elements-in-c)
